@@ -3,7 +3,7 @@ package com.matt
 
 class PersonKotlin {
     fun greeting(){
-        print("hello")
+        println("hello")
     }
 
 }
